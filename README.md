@@ -26,3 +26,11 @@ The model uses image data to distinguish between two types of dates. It is built
 2. Open the provided Colab notebook (`notebook.ipynb`).
 3. Run the cells to train the model or load a pre-trained model.
 4. Use the classification function to predict new images.
+
+## sample Image
+
+### Sukari Date (https://github.com/Majd80Saoud/date-classifier/blob/main/Sukkri%20test.png)
+
+### Khalase Date ()
+
+### test code
