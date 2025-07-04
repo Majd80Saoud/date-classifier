@@ -31,6 +31,6 @@ The model uses image data to distinguish between two types of dates. It is built
 
 ### Sukari Date (https://github.com/Majd80Saoud/date-classifier/blob/main/Sukkri%20test.png)
 
-### Khalase Date ()
+### Khalase Date (https://github.com/Majd80Saoud/date-classifier/blob/main/klass%20test.png)
 
-### test code
+### test code ()
